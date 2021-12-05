@@ -1,0 +1,10 @@
+#app1> .output > #number{
+   border: 1px solid grey;
+   padding: 4px 8px;
+}
+#app1> .actions{
+   margin: 10px 10px;
+}
+#app1> .actions > button{
+    padding: 4px 8px;
+}
